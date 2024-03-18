@@ -1,1 +1,6 @@
-Cellular Automata (CA) Model for Land Cover Land Usage Change
+Cellular Automata (CA) Model for Simulation
+
+ChatGPT:
+"Cellular automata (CA) models simulate land cover change by dividing the landscape into grid cells and modeling the transition of each cell between different land cover categories based on transition rules. These rules consider factors such as proximity to existing land cover types, accessibility, and socioeconomic drivers. CA models are useful for capturing spatial patterns of land cover change and simulating the spread of urbanization or deforestation over time."
+
+
